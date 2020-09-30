@@ -7,7 +7,7 @@ Training dataset中有1460欄，81個特徵(包括目標特徵"SalePrice")，Tes
 在這個Github展示了:
 1. EDA應用。
 2. 根據可能原因填補缺失值。
-3. Feature engineering:target guided ordinal encoding, one hot encoding with many cates (KDD Orange比賽中獲勝之方法)。
+3. Feature engineering: arget guided ordinal encoding, one hot encoding with many cates (KDD Orange比賽中獲勝之方法)。
 4. Hyperparameter optimization。
 5. Linear, Ridge, Lasso Regression, ElasticNet, Decision Tree, Random Forest, Adaboost, Gradient Boosting, XGBoost之應用。
 6. Kaggle得分，如下圖:
