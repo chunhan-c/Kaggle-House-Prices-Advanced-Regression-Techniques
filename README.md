@@ -1,6 +1,6 @@
 # Kaggle-House-Prices-Advanced-Regression-Techniques
 
-此項目之目標為根據房屋各種特徵預測售出價格。
+此項目之目標為根據房屋各種特徵預測售出價格。  
 數據來源 Kaggle: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/description  
 Training dataset中有1460欄，81個特徵(包括目標特徵"SalePrice")，Test dataset則是1459欄，80個特徵。
 
